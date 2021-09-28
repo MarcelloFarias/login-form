@@ -22,6 +22,8 @@ body {
     height: 60vh;
     min-width: 320px;
     padding: 0.4rem;
+    animation: bounceInDown;
+    animation-duration: 1s;
 }
 
 h2 {
