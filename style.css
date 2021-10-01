@@ -143,6 +143,14 @@ input[type="submit"]:hover {
     background: linear-gradient(to right, #ea4335, #fbb005 );
 }
 
+.social-field .btn-google:hover {
+    background: linear-gradient(to left, #ea4335, #fbb005 );
+}
+
 .social-field .btn-facebook {
     background: linear-gradient(to right, #4267b2, #1877f2 );
+}
+
+.social-field .btn-facebook:hover {
+    background: linear-gradient(to left, #4267b2, #1877f2 );
 }
